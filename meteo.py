@@ -8,7 +8,7 @@ import json
 
 """ CONSTANTS """
 # openweather API key
-app_key="Register a key on openweathermap.com"
+app_key="835295f911955ff31de25a0226a08f11" # Please register your own key
 
 """ PRINTING METHODS """
 # console colors

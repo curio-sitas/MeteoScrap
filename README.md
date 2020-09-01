@@ -2,9 +2,9 @@
 ## A simple meteo scrapper using the [OpenWeatherMap](http://openweathermap.org) API
 
 
-> How is the weather in Sydney ?
+> How is the weather in Paris ?
 
-![Screenshot](/screenshot.png)
+[![asciicast](https://asciinema.org/a/M2Ji0ucI9aTfIwNo4281kkvGQ.svg)](https://asciinema.org/a/M2Ji0ucI9aTfIwNo4281kkvGQ)
 
 ## Configuration
 

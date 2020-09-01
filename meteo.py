@@ -90,11 +90,11 @@ def go():
         else:
             f=bcolors.FAIL
 
-        log(f"\t\t * Feeling temperature : {tr}°C", f)
+        log(f"\t\t* Feeling temperature : {tr}°C", f)
 
         log(f"\t\t* Minimum temperature : {tmin}°C")
         log(f"\t\t* Maximum temperature : {tmax}°C")
-        log("\t* Others \n", bcolors.UNDERLINE+bcolors.OKBLUE)
+        log("\n\t* Others\n", bcolors.UNDERLINE+bcolors.OKBLUE)
         log(f"\t\t* Humidity : {hum}%")
         log(f"\t\t* Description : {str.upper(desc)}")
 

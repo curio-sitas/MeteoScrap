@@ -4,7 +4,7 @@
 
 > How is the weather in Paris ?
 
-[<img src="https://asciinema.org/a/M2Ji0ucI9aTfIwNo4281kkvGQ.svg" title="" alt="asciicast" width="506">](https://asciinema.org/a/M2Ji0ucI9aTfIwNo4281kkvGQ)
+[<img src="https://asciinema.org/a/M2Ji0ucI9aTfIwNo4281kkvGQ.svg" title="" alt="asciicast" >](https://asciinema.org/a/M2Ji0ucI9aTfIwNo4281kkvGQ)
 
 ## Configuration
 
